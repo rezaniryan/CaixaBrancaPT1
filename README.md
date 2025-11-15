@@ -5,7 +5,8 @@ NOTAÇÃO DE GRAFO DE FLUXO
 
 COMPLEXIDADE CICLOMÁTICA
 
-<img width="800" height="189" alt="image" src="https://github.com/user-attachments/assets/c749fec6-ce62-4147-ab62-eb2f75862204" />
+<img width="724" height="295" alt="image" src="https://github.com/user-attachments/assets/26826cfa-18c9-4f98-adec-ef4485650410" />
+
 
 
 CAMINHO BÁSICO
