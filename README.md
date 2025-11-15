@@ -10,7 +10,8 @@ COMPLEXIDADE CICLOMÁTICA
 
 CAMINHO BÁSICO
 
-<img width="560" height="327" alt="image" src="https://github.com/user-attachments/assets/0eabda24-15f7-4217-8523-495418628d94" />
+<img width="655" height="622" alt="image" src="https://github.com/user-attachments/assets/435fc8cc-1bab-4ebc-8910-b92b48892d5e" />
+
 
 
 
